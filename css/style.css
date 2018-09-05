@@ -15,5 +15,6 @@ nav>ul>li {
 }
 .user-block a {
 	float: right;
+	display: inline-block;
 }
 
