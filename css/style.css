@@ -21,7 +21,6 @@ body {
 }
 .main-navigation {
 	width: 780px;
-	float: left;
 	display: inline-block;
 }
 .user-block {
