@@ -10,7 +10,7 @@ body {
 	background-size: 1122px auto;
 	color: #fff;
 	}
-.main-navigation {
+nav>ul>li {
 	display: inline-block;
 }
 
