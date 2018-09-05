@@ -18,8 +18,7 @@ body {
 
 .main-header {
 	min-height: 70px;
-	display: inline-block;
-}
+	}
 .container {
 	width: 940px;
 	margin: 0 auto;
@@ -28,6 +27,7 @@ body {
 .main-navigation {
 	width: 780px;
 	float: left;
+	display: inline-block;
 }
 .user-block {
 	min-height: 70px;
