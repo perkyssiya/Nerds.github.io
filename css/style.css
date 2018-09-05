@@ -18,6 +18,7 @@ body {
 
 .main-header {
 	min-height: 70px;
+	display: inline-block;
 }
 .container {
 	width: 940px;
