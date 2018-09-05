@@ -8,6 +8,7 @@ body {
 body {
 	background: #111 url(../img/barbershop-index.jpg) no-repeat 50% 3px;
 	background-size: 1122px auto;
+	color: #fff;
 	}
 .clearfix::after {
 	content: "";
