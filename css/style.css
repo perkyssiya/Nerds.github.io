@@ -10,20 +10,8 @@ body {
 	background-size: 1122px auto;
 	color: #fff;
 	}
-
-.main-header {
-	min-height: 70px;
-	}
-.container {
-	width: 940px;
-	margin: 0 auto;
-	padding:0 10px;
-}
 .main-navigation {
 	width: 780px;
 	display: inline-block;
 }
-.user-block {
-	min-height: 70px;
-	width: 140px;
-}
+
