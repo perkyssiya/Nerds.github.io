@@ -13,7 +13,7 @@ body {
 nav>ul>li {
 	display: inline-block;
 }
-.user-block {
-	float: right;
+.user-block a {
+	display: inline-block;
 }
 
